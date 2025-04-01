@@ -4,17 +4,17 @@
 
 > Features
 
-User Authentication (Login, Logout, Registration)
+* User Authentication (Login, Logout, Registration)
 
-Create, Update, and Delete Chat Rooms
+* Create, Update, and Delete Chat Rooms
 
-Post and Delete Messages in Rooms
+* Post and Delete Messages in Rooms
 
-User Profile Management
+* User Profile Management
 
-Recent Activity and a List of All the Topics
+* Recent Activity and a List of All the Topics
 
-REST API for Fetching all Rooms and Individual Rooms
+* REST API for Fetching all Rooms and Individual Rooms
 
 > API Endpoints
 
@@ -30,9 +30,9 @@ REST API for Fetching all Rooms and Individual Rooms
 
 > Technologies Used:
 
-> Backend: Django, Django REST Framework
-> Frontend: HTML, CSS, JavaScript
-> Database: SQLite
+* Backend: Django, Django REST Framework
+* Frontend: HTML, CSS, JavaScript
+* Database: SQLite
 
 > To Clone the Repository
 
