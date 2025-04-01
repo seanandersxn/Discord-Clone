@@ -2,7 +2,7 @@
 
 ### Discord Clone using Django
 
-> Features
+> Features:
 
 * User Authentication (Login, Logout, Registration)
 
@@ -16,7 +16,7 @@
 
 * REST API for Fetching all Rooms and Individual Rooms
 
-> API Endpoints
+> API Endpoints:
 
 ```
  ______________________________________________________________
@@ -36,7 +36,7 @@
 * Frontend: HTML, CSS, JavaScript
 * Database: SQLite
 
-> To Clone the Repository
+> To Clone the Repository:
 
 ```
 git clone https://github.com/seanandersxn/Discord-Clone.git
