@@ -18,6 +18,7 @@
 
 > API Endpoints
 
+```
  ______________________________________________________________
 |       |                |                                     |
 |Method |    Endpoint    |             Description             |
@@ -27,6 +28,7 @@
 |  GET  |  /api/rooms/   |       Retrieve all chat rooms       |
 |  GET  | /api/rooms/:id | Retrieve details of a specific room |
 |_______|________________|_____________________________________|
+```
 
 > Technologies Used:
 
