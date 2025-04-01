@@ -2,7 +2,7 @@
 
 ### Discord Clone using Django
 
-> Featuress
+> Features
 
 ```
 User Authentication (Login, Logout, Registration)
@@ -10,6 +10,8 @@ User Authentication (Login, Logout, Registration)
 Create, Update, and Delete Chat Rooms
 
 Post and Delete Messages in Rooms
+
+User Profile Management
 
 Recent Activity and a List of All the Topics
 
